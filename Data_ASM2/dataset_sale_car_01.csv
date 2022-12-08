@@ -1,0 +1,601 @@
+﻿Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Country,City,Quantity
+1,HN-2021-152156,11/8/2021,11/11/2021,Second Class,CG-12520,Dang Van Quy,Viet Nam,Ha Noi,1
+2,LC-2020-152156,11/8/2020,11/11/2020,Second Class,CG-12520,Nguyen Van Bac,Viet Nam,Lai Chau,1
+3,HN-2021-138688,6/12/2021,6/16/2021,Second Class,DV-13045,Nguyen Van Tuan,Viet Nam,Ha Noi,1
+4,HN-2021-108966,10/11/2021,10/18/2021,Standard Class,SO-20335,Ho Van Cung Minh,Viet Nam,Ha Noi,1
+5,HN-2021-102444,10/11/2021,10/18/2021,Standard Class,SO-20335,Vu Minh Duc,Viet Nam,Ha Noi,1
+6,HCM-2021-115812,6/9/2021,6/14/2021,Standard Class,BH-11710,Nguyen Hoang Giang,Viet Nam,Ho Chi Minh,1
+7,HCM-2021-115813,6/9/2021,6/14/2021,Standard Class,BH-11710,Pham Thong Phong,Viet Nam,Ho Chi Minh,1
+8,LA-2021-115812,6/9/2021,6/14/2021,Standard Class,BH-11710,Dang Thanh Tung,Viet Nam,Long An,1
+9,TN-2020-115812,6/9/2020,6/14/2020,Standard Class,BH-11710,Lo Ngoc Anh,Viet Nam,Thai Nguyen,1
+10,NB-2021-115812,6/9/2021,6/14/2020,Standard Class,BH-11710,Nguyen Thi Oanh,Viet Nam,Ninh Binh,1
+11,TB-2021-115812,6/9/2021,6/14/2021,Standard Class,BH-11710,Nguyen Xuon Thuong,Viet Nam,Thai Binh,1
+12,TB-2021-115812,6/9/2021,6/14/2021,Standard Class,BH-11710,Pham Huy Hoang,Viet Nam,Thai Binh,1
+13,HN-2021-114412,4/15/2021,4/20/2021,Standard Class,AA-10480,Vu Anh Tuan,Viet Nam,Ha Nam,1
+14,NA-2021-161389,12/5/2021,12/10/2021,Standard Class,IM-15070,Pham Anh Minh,Viet Nam,Nghe An,1
+15,BP-2021-118983,11/22/2021,11/26/2021,Standard Class,DN-13690,Ngu Nhat Long,Viet Nam,Hoa Binh,1
+16,NA-2020-118983,11/11/2020,11/18/2020,Standard Class,DN-13690,Duong Kim Cuong,Viet Nam,Son La,1
+17,BD-2021-105893,5/13/2021,5/15/2021,Standard Class,JC-16105,Vu Trung Kien,Viet Nam,Dien Bien,1
+18,HP-2021-167164,8/27/2021,9/1/2021,Standard Class,CS-12400,Cao Ngoc Minh,Viet Nam,Thanh Hoa,1
+19,MC-2021-143336,8/27/2021,9/1/2021,Second Class,PO-18865,Tran Huu Phi,Viet Nam,Nghe An,1
+20,HP-2021-167165,8/27/2021,9/1/2021,Second Class,PG-18895,Pham Thi Hong,Viet Nam,Lao Cai,1
+21,MC-2021-143337,12/9/2021,12/13/2021,Second Class,PG-18895,Nguyen Van Tung Lam,Viet Nam,Yen Bai,1
+22,CA-2021-137330,12/9/2021,12/13/2021,Second Class,GM-14455,Nguyen Thi Anh,Viet Nam,Quang Binh,1
+23,CA-2021-137330,7/16/2021,7/18/2021,Standard Class,JS-15685,Duong Ngoc Dat,Viet Nam,Quang Tri,1
+24,US-2021-156909,9/25/2021,9/30/2021,Standard Class,JS-15685,Nguyen Manh Hieu,Viet Nam,Thua Thien Hue,1
+25,CA-2020-106320,1/16/2020,1/20/2020,Second Class,JS-15685,Ho Trung Kien,Viet Nam,Ba Ria Vung Tau,1
+26,CA-2020-121755,1/16/2020,1/20/2020,Standard Class,KB-16315,Hoang Quy Phuong,Viet Nam,Binh Duong,1
+27,CA-2021-121755,9/17/2021,9/21/2021,Second Class,KB-16315,Nguyen Khac Son,Viet Nam,Dong Nai,1
+28,US-2021-150630,9/17/2021,9/21/2021,Second Class,KB-16315,Nguyen Thi Huong,Viet Nam,Tay Ninh,1
+29,US-2021-150630,9/17/2021,9/21/2021,Standard Class,RB-19705,Pham Hoai Anh,Viet Nam,Ho Chi Minh,1
+30,US-2020-150630,9/17/2020,9/21/2020,Standard Class,PN-18775,Pham Mai Anh,Viet Nam,Ba Ria Vung Tàu,1
+31,US-2021-150630,9/17/2021,9/21/2021,Standard Class,KD-16345,Tran Duy Anh,Viet Nam,Binh Duong,1
+32,US-2021-150630,9/17/2021,9/21/2020,Standard Class,ER-13855,Tran Van Anh,Viet Nam,An Giang,1
+33,US-2021-150630,9/17/2021,9/21/2021,Standard Class,RB-19465,Vu Tuan Anh,Viet Nam,Bac Lieu,1
+34,US-2020-150630,10/19/2020,10/23/2020,Standard Class,RB-19465,Nguyen Ngoc Cuong,Viet Nam,Ben Tre,1
+35,CA-2021-107727,12/8/2021,12/10/2021,Standard Class,RB-19465,Pham Van Dieu,Viet Nam,Can Tho,1
+36,CA-2021-117590,12/8/2021,12/10/2021,Second Class,GZ-14470,Nguyen Hoàng Dung,Viet Nam,Dong Thap,1
+37,CA-2021-117590,12/27/2021,12/31/2021,First Class,LC-16870,Nguyen Cung Duong,Viet Nam,Binh Dinh,1
+38,CA-2021-117415,12/27/2021,12/31/2021,First Class,LC-16870,Pham Quang Dao,Viet Nam,Phu Yen,1
+39,CA-2020-117415,12/27/2020,12/31/2020,Standard Class,LC-16870,Trieu Trong Dat,Viet Nam,Khanh Hoa,1
+40,CA-2021-117415,12/27/2021,12/31/2021,Standard Class,JM-15250,Lo Thi Thu Ha,Viet Nam,Ha Giang,1
+41,CA-2020-117415,9/10/2020,9/15/2020,Standard Class,JM-15250,Tran Thi Ha,Viet Nam,Tuyen Quang,1
+42,CA-2020-120999,7/17/2020,7/22/2020,Standard Class,JM-15250,Bui Van Hai,Viet Nam,Bac Kan,1
+43,CA-2021-101343,9/19/2021,9/23/2021,Standard Class,PA-19060,Do Van Hai,Viet Nam,Thai Nguyen,1
+44,CA-2020-139619,3/11/2020,3/13/2020,Standard Class,CV-12805,Nguyen Van Hai,Viet Nam,Lang Son,1
+45,CA-2021-118255,3/11/2021,3/13/2021,Standard Class,CL-12565,Nguyen Van Hai,Viet Nam,Bac Giang,1
+46,CA-2021-118255,10/20/2021,10/25/2021,First Class,CL-12565,Duong Thi Hao,Viet Nam,Ha Noi,1
+47,CA-2021-146703,6/20/2021,6/25/2021,First Class,RC-19960,Nguyen Thi Hien,Viet Nam,Bac Ninh,1
+48,CA-2020-169194,6/20/2020,6/25/2020,Second Class,RC-19960,Vu The Hieu,Viet Nam,Ha Nam,1
+49,CA-2020-169194,4/18/2020,4/22/2020,Standard Class,RC-19960,Tran Duc Hua,Viet Nam,Hai Duong,1
+50,CA-2020-115742,4/18/2020,4/22/2020,Standard Class,RC-19960,Nguyen Huy Hoang,Viet Nam,Hai Phong,1
+51,CA-2020-115742,4/18/2020,4/22/2020,Standard Class,DK-13090,Tran Huy Hoang,Viet Nam,Hung Yen,1
+52,CA-2021-115742,4/18/2021,4/22/2021,Standard Class,GG-14650,Dào Thi Hue,Viet Nam,Nam Dinh,1
+53,CA-2020-115742,12/11/2020,12/17/2020,Standard Class,SC-20725,Nguyen Huu Hung,Viet Nam,Thoi Binh,1
+54,CA-2020-105816,12/11/2020,12/17/2020,Standard Class,SC-20725,Nguyen Trong Huy,Viet Nam,Ha Noi,1
+55,CA-2021-105816,6/17/2021,6/18/2021,Standard Class,SC-20725,Do Ngoc Huyon,Viet Nam,Ha Noi,1
+56,CA-2020-111682,6/17/2020,6/18/2020,Standard Class,SC-20725,Lo Thi Thu Huyen,Viet Nam,Ha Noi,1
+57,CA-2021-111682,6/17/2021,6/18/2021,First Class,SC-20725,Nguyen Thi Huyen,Viet Nam,Hau Giang,1
+58,CA-2021-111682,6/17/2021,6/18/2021,First Class,AD-10180,Phan Thi Thu Huyen,Viet Nam,Kien Giang,1
+59,CA-2020-111682,6/17/2020,6/18/2020,First Class,PF-19165,Hoàng Xuon Khonh,Viet Nam,Long An,1
+60,CA-2020-111682,6/17/2020,6/18/2020,First Class,TS-21610,Do Trong Khui,Viet Nam,Soc Trang,1
+61,CA-2020-111682,6/17/2020,6/18/2020,First Class,TS-21610,Duong Manh Ky,Viet Nam,Tien Giang,1
+62,CA-2021-111682,11/24/2021,11/30/2021,First Class,LS-16975,Nguyen Viet Linh,Viet Nam,Tra Vinh,1
+63,CA-2020-135545,11/24/2020,11/30/2020,First Class,LS-16975,Vu Thi My Linh,Viet Nam,Da Nang,1
+64,CA-2020-135545,11/24/2020,11/30/2020,Standard Class,DW-13585,Bui Thi Loan,Viet Nam,Quang Nam,1
+65,CA-2020-135545,11/24/2020,11/30/2020,Standard Class,DW-13585,Trinh Thi Loan,Viet Nam,Quang Ngai,1
+66,CA-2020-135545,4/30/2020,5/5/2020,Standard Class,DW-13585,Vu Hong Loan,Viet Nam,Binh Dinh,1
+67,US-2021-164175,12/5/2021,12/10/2021,Standard Class,LC-16885,Do Hoàng Long,Viet Nam,Phu Yen,1
+68,CA-2021-106376,12/5/2021,12/10/2021,Standard Class,LC-16885,Nguyen Danh Long,Viet Nam,Ha Giang,1
+69,CA-2020-106376,6/4/2020,6/6/2020,Standard Class,LC-16885,Nguyen Thanh Luon,Viet Nam,Tuyen Quang,1
+70,CA-2021-119823,9/18/2021,9/23/2021,Standard Class,LC-16885,Cao Dang Luan,Viet Nam,Cao Bang,1
+71,CA-2020-106075,9/14/2020,9/17/2020,First Class,LC-16885,Pham Quang Luc,Viet Nam,Bac Kan,1
+72,CA-2020-114440,4/26/2020,5/2/2020,Standard Class,LC-16885,Phung Hai Ly,Viet Nam,Thoi Nguyen,1
+73,US-2020-134026,4/26/2020,5/2/2020,Second Class,LC-16885,Nguyen Tien Manh,Viet Nam,Lang Son,1
+74,US-2021-134026,4/26/2021,5/2/2021,Standard Class,JD-15895,Nguyen Thi Minh,Viet Nam,Dong Thap,1
+75,US-2020-134026,12/9/2020,12/11/2020,Standard Class,SH-19975,Vu Bo Minh,Viet Nam,Hau Giang,1
+76,US-2021-118038,12/9/2021,12/11/2021,Standard Class,SH-19975,Bui Hoai Nam,Viet Nam,Kien Giang,1
+77,US-2020-118038,12/9/2020,12/11/2020,First Class,SH-19975,Dinh Huu Nam,Viet Nam,Long An,1
+78,US-2020-118038,11/26/2020,12/1/2020,First Class,SG-20080,Tran Thi Ngoc,Viet Nam,Ho Chi Minh,1
+79,US-2021-147606,6/12/2021,6/15/2021,First Class,HA-14920,Pham Thi Nguyet,Viet Nam,Ba Ria Vung Tau,1
+80,CA-2020-127208,6/12/2020,6/15/2020,Second Class,MG-17680,Tran Hong Nhung,Viet Nam,Binh Duong,1
+81,CA-2021-127208,10/12/2021,10/16/2021,First Class,JE-16165,Hua Thi Nhu,Viet Nam,Nghe An,1
+82,CA-2021-139451,10/12/2021,10/16/2021,First Class,JE-16165,Ngu Donh Phung,Viet Nam,Ha Tinh,1
+83,CA-2020-139451,9/3/2020,9/8/2020,Standard Class,JE-16165,Nguyen Thi Mai Phuong,Viet Nam,Quang Binh,1
+84,CA-2021-149734,11/13/2021,11/16/2021,Standard Class,JE-16165,Phan Thi Phuong,Viet Nam,Quang Tri,1
+85,US-2021-119662,5/28/2021,5/30/2021,Standard Class,TW-21025,Dinh Xuon Quang,Viet Nam,Tien Giang,1
+86,CA-2021-140088,10/26/2021,11/2/2021,First Class,TW-21025,Nguyen Van Quang,Viet Nam,Tra Vinh,1
+87,CA-2020-155558,10/26/2020,11/2/2020,Second Class,SP-20650,Lo Tro Quon,Viet Nam,Da Nang,1
+88,CA-2020-155558,4/5/2020,4/10/2020,Standard Class,SP-20650,Nguyen Ngoc Son,Viet Nam,Quang Nam,1
+89,CA-2020-159695,9/17/2020,9/22/2020,Standard Class,SP-20650,Doàn Phuong Thao,Viet Nam,Quang Ngai,1
+90,CA-2021-109806,9/17/2021,9/22/2021,Second Class,NK-18490,Pham Thi Thu Thao,Viet Nam,Binh Dinh,1
+91,CA-2021-109806,9/17/2021,9/22/2021,Standard Class,DB-13060,Lo Van Thang,Viet Nam,Phu Yen,1
+92,CA-2020-109806,1/31/2020,2/5/2020,Standard Class,NP-18670,Lo Xuon Thang,Viet Nam,Ha Giang,1
+93,CA-2021-149587,1/31/2021,2/5/2021,Standard Class,NP-18670,Vu Donh  Thinh,Viet Nam,Ninh Binh,1
+94,CA-2020-149587,1/31/2020,2/5/2020,Second Class,TT-21070,Bui Thanh Tho,Viet Nam,Thai Binh,1
+95,CA-2021-149587,11/6/2021,11/12/2021,Second Class,EM-13960,Hà Thi Thu,Viet Nam,Thai Binh,1
+96,US-2021-109484,11/9/2021,11/11/2021,Second Class,RD-19900,Nguyen Thi Thu,Viet Nam,Ha Nam,1
+97,CA-2020-161018,6/17/2020,6/20/2020,Standard Class,MJ-17740,Vu Duy Thuon,Viet Nam,Nghe An,1
+98,CA-2020-157833,9/6/2020,9/11/2020,Second Class,BM-11140,Nguyen Van Thuy,Viet Nam,Hoa Binh,1
+99,CA-2021-149223,8/29/2021,9/2/2021,First Class,BM-11140,Liou Van Thuyet,Viet Nam,Son La,1
+100,CA-2021-158568,8/29/2021,9/2/2021,Standard Class,BM-11140,Hà Hua Thuong,Viet Nam,Dien Bien,1
+101,CA-2021-158568,8/29/2021,9/2/2021,Standard Class,BM-11140,Nguyen Tien Thuong,Viet Nam,Thanh Hoa,1
+102,CA-2020-158568,12/1/2020,12/4/2020,Standard Class,BM-11140,Dinh Viet Anh,Viet Nam,Nghe An,1
+103,CA-2020-129903,11/13/2020,11/17/2020,Standard Class,BM-11140,Vi Thi Mai Anh,Viet Nam,Lao Cai,1
+104,US-2020-156867,11/13/2020,11/17/2020,Second Class,BM-11140,Lo Thi Ngoc onh,Viet Nam,Yen Bai,1
+105,US-2021-156867,11/13/2021,11/17/2021,Standard Class,CS-12130,Nguyen Duy Canh,Viet Nam,Quang Binh,1
+106,US-2021-156867,11/23/2021,11/28/2021,Standard Class,CS-12130,Hung Huy Diep,Viet Nam,Quang Tri,1
+107,CA-2020-119004,11/23/2020,11/28/2020,Standard Class,CS-12130,Hoàng Cho Dung,Viet Nam,Ha Noi,1
+108,CA-2021-119004,11/23/2021,11/28/2021,Standard Class,JB-15400,Nguyen Huu Dai,Viet Nam,Ha Noi,1
+109,CA-2020-119004,10/15/2020,10/20/2020,Standard Class,JB-15400,Lo Hai Dang,Viet Nam,Hau Giang,1
+110,CA-2020-129476,12/25/2020,12/30/2020,Standard Class,SJ-20500,Bui Van Giang,Viet Nam,Kien Giang,1
+111,CA-2020-146780,11/3/2020,11/10/2020,Standard Class,JE-15745,Nguyen Thi Hai,Viet Nam,Long An,1
+112,CA-2021-128867,11/3/2021,11/10/2021,Standard Class,JE-15745,Hoang Thi Hien,Viet Nam,Soc Trang,1
+113,CA-2020-128867,8/25/2020,8/27/2020,Standard Class,JK-15640,Ta Van Hua,Viet Nam,Tien Giang,1
+114,CA-2020-115259,8/25/2020,8/27/2020,Standard Class,DK-13150,Nguyen Thi Hong,Viet Nam,Tra Vinh,1
+115,CA-2020-115259,8/25/2020,8/27/2020,Second Class,DK-13150,Vu Thi Hong,Viet Nam,Da Nang,1
+116,CA-2021-115259,8/25/2021,8/27/2021,Second Class,RM-19675,Hoàng Manh Hung,Viet Nam,Quang Nam,1
+117,CA-2020-115259,3/2/2020,3/6/2020,Second Class,RM-19675,Tran Quoc Huy,Viet Nam,Ha Noi,1
+118,CA-2020-110457,4/5/2020,4/10/2020,Second Class,RM-19675,Dang Thi Huyen,Viet Nam,Ho Chi Minh,1
+119,US-2020-136476,6/12/2020,6/15/2020,Standard Class,SK-19990,Do Minh Khonh,Viet Nam,Ho Chi Minh,1
+120,CA-2020-103730,6/12/2020,6/15/2020,Standard Class,FM-14290,Tran Thi Tuyet Linh,Viet Nam,Long An,1
+121,CA-2021-103730,6/12/2021,6/15/2021,First Class,AM-10360,Pham Thi Luong,Viet Nam,Thai Nguyen,1
+122,CA-2020-103730,6/12/2020,6/15/2020,First Class,AM-10360,Nguyen Hoai Nam,Viet Nam,Ninh Binh,1
+123,CA-2020-103730,6/12/2020,6/15/2020,First Class,MP-17470,Dao Hang Nga,Viet Nam,Thai Binh,1
+124,CA-2020-103730,12/26/2020,12/28/2020,First Class,MP-17470,Dinh Thi Lo Nga,Viet Nam,Thai Binh,1
+125,US-2020-152030,9/20/2020,9/25/2020,First Class,MP-17470,Ung Sy Ngà,Viet Nam,Ha Nam,1
+126,US-2020-134614,11/5/2020,11/12/2020,Second Class,MP-17470,Nguyen Van Nhan,Viet Nam,Nghe An,1
+127,US-2020-107272,11/5/2020,11/12/2020,Standard Class,MP-17470,Le Van Phu,Viet Nam,Hoa Binh,1
+128,US-2020-107272,11/6/2020,11/10/2020,Standard Class,MZ-17515,Nguyen Dai Quy,Viet Nam,Son La,1
+129,US-2021-125969,11/6/2021,11/10/2021,Standard Class,CB-12025,Tran Van Quyen,Viet Nam,Dien Bien,1
+130,US-2021-125969,2/2/2021,2/5/2021,Second Class,CB-12025,Nguyen Tuan Son,Viet Nam,Thanh Hoa,1
+131,US-2020-164147,2/2/2020,2/5/2020,Second Class,VM-21685,Tran Donh Thành,Viet Nam,Hau Giang,1
+132,US-2020-164147,2/2/2020,2/5/2020,First Class,FH-14365,Tran Van Tho,Viet Nam,Kien Giang,1
+133,US-2021-164147,10/13/2021,10/19/2021,First Class,FH-14365,Vu Thi Thuy,Viet Nam,Long An,1
+134,CA-2020-145583,10/13/2020,10/19/2020,First Class,MB-17305,Luong Manh Tiep,Viet Nam,Ho Chi Minh,1
+135,CA-2020-145583,10/13/2020,10/19/2020,Standard Class,BS-11755,Vu Van Toan,Viet Nam,Ba Ria Vung Tau,1
+136,CA-2021-145583,10/13/2021,10/19/2021,Standard Class,BS-11755, Truong Thi Ngoc Trang,Viet Nam,Binh Duong,1
+137,CA-2021-145583,10/13/2021,10/19/2021,Standard Class,LC-17140,Dinh Ngoc Trung,Viet Nam,Nghe An,1
+138,CA-2020-145583,10/13/2020,10/19/2020,Standard Class,HK-14890,Bui Thanh Tung,Viet Nam,Ha Tinh,1
+139,CA-2020-145583,10/13/2020,10/19/2020,Standard Class,LE-16810,Luong Ngoc Tung,Viet Nam,Quang Binh,1
+140,CA-2020-145583,9/5/2020,9/7/2020,Standard Class,JH-15985,Nguyen Van Tung,Viet Nam,Quang Tri,1
+141,CA-2021-110366,9/18/2021,9/23/2021,Standard Class,JH-15985,Tran Van Tuyen,Viet Nam,Tien Giang,1
+142,CA-2021-106180,9/18/2021,9/23/2021,Second Class,JH-15985,Tran Van Tuong,Viet Nam,Tra Vinh,1
+143,CA-2021-106180,9/18/2021,9/23/2021,Standard Class,JH-15985,Bui Dai Viet,Viet Nam,Da Nang,1
+144,CA-2020-106180,12/22/2020,12/27/2020,Standard Class,JH-15985,Duong Tuan Vu,Viet Nam,Quang Nam,1
+145,CA-2020-155376,9/7/2020,9/12/2020,Standard Class,MS-17980,Nguyen Thanh Son,Viet Nam,Quang Ngai,1
+146,CA-2021-110744,10/22/2021,10/28/2021,Standard Class,VW-21775,Nguyen Duc Tien,Viet Nam,Binh Dinh,1
+147,CA-2021-110072,12/5/2021,12/9/2021,Standard Class,VW-21775,Vu Van Tu,Viet Nam,Phu Yen,1
+148,CA-2020-114489,12/5/2020,12/9/2020,Standard Class,VW-21775,Do Huy Hoàng,Viet Nam,Ha Giang,1
+149,CA-2020-114489,12/5/2020,12/9/2020,Standard Class,VW-21775,Lo Xuon Tung,Viet Nam,Ninh Binh,1
+150,CA-2021-114489,12/5/2021,12/9/2021,Standard Class,VW-21775,Phan Tien Duong,Viet Nam,Thai Binh,1
+151,CA-2020-114489,3/13/2020,3/16/2020,Standard Class,JH-15910,Duong Son Tung,Viet Nam,Thai Binh,1
+152,CA-2020-158834,3/13/2020,3/16/2020,Standard Class,JH-15910,Lo Tuan Anh,Viet Nam,Long An,1
+153,CA-2021-158834,5/31/2021,6/2/2021,First Class,JB-15925,Nguyen Ngoc Cuong,Viet Nam,Soc Trang,1
+154,CA-2020-124919,5/31/2020,6/2/2020,First Class,JB-15925,Nguyen Van Du,Viet Nam,Tien Giang,1
+155,CA-2021-124919,5/31/2021,6/2/2021,First Class,JB-15925,Nguyen Thi Duyon,Viet Nam,Tra Vinh,1
+156,CA-2020-124919,5/28/2020,6/3/2020,First Class,FM-14380,Dao Duy Han,Viet Nam,Da Nang,1
+157,CA-2020-118948,3/1/2020,3/6/2020,First Class,FM-14380,Ngo Van Hiep,Viet Nam,Quang Nam,1
+158,CA-2020-104269,11/20/2020,11/24/2020,Standard Class,FM-14380,Nguyen Cung Hoan,Viet Nam,Quang Ngai,1
+159,CA-2021-114104,11/20/2021,11/24/2021,Second Class,BD-11605,Nguyen Khac Hoàn,Viet Nam,Binh Dinh,1
+160,CA-2021-114104,5/11/2021,5/12/2021,Standard Class,BD-11605,Nghiom Xuon Hoàng,Viet Nam,Phu Yen,1
+161,CA-2020-162733,12/28/2020,12/31/2020,Standard Class,DJ-13420,Nguyen Thi Hue,Viet Nam,Ha Giang,1
+162,CA-2020-119697,11/16/2020,11/20/2020,First Class,ME-17725,Ngu Tro Hung,Viet Nam,Tuyen Quang,1
+163,CA-2020-154508,11/7/2020,11/11/2020,Second Class,ME-17725,Chu Van Huynh,Viet Nam,Cao Bang,1
+164,CA-2020-113817,9/8/2020,9/12/2020,Standard Class,RB-19465,Truong Van Ky,Viet Nam,Bac Kan,1
+165,CA-2021-139892,9/8/2021,9/12/2021,Standard Class,RB-19465,Nguyen Van Liem,Viet Nam,Quang Ngai,1
+166,CA-2020-139892,9/8/2020,9/12/2020,Standard Class,JD-16150,Nguyen Dang Long,Viet Nam,Binh Dinh,1
+167,CA-2020-139892,9/8/2020,9/12/2020,Standard Class,JL-15835,Tran Van Luu,Viet Nam,Phu Yen,1
+168,CA-2020-139892,9/8/2020,9/12/2020,Standard Class,JL-15835,Le Van Ngoc,Viet Nam,Ha Giang,1
+169,CA-2021-139892,9/8/2021,9/12/2021,Standard Class,SC-20305,Vu Thi Nhom,Viet Nam,Ninh Binh,1
+170,CA-2020-139892,9/8/2020,9/12/2020,Standard Class,TW-21025,Vu Ngoc Ninh,Viet Nam,Thai Binh,1
+171,CA-2020-139892,8/5/2020,8/9/2020,Standard Class,CC-12430,Lo Xuon Phoo,Viet Nam,Thai Binh,1
+172,CA-2021-118962,8/5/2021,8/9/2021,Standard Class,BB-10990,Nguyen Van Phuc,Viet Nam,Long An,1
+173,CA-2020-118962,8/5/2020,8/9/2020,Standard Class,BB-10990,Dieu Viet Phuong,Viet Nam,Soc Trang,1
+174,CA-2021-118962,9/14/2021,9/19/2021,Standard Class,AR-10825,Hà Hong Phuong,Viet Nam,Tien Giang,1
+175,US-2020-100853,9/14/2020,9/19/2020,Standard Class,AR-10825,Hoàng Thuy Phuong,Viet Nam,Tra Vinh,1
+176,US-2020-100853,4/21/2020,4/25/2020,Standard Class,AR-10825,Nguyen Hong Quang,Viet Nam,Da Nang,1
+177,US-2020-152366,11/21/2020,11/23/2020,Standard Class,SR-20740,Nguyen Vu  Quoc,Viet Nam,Quang Nam,1
+178,US-2020-101511,11/21/2020,11/23/2020,Second Class,AR-10405,Nguyen Donh Thoi,Viet Nam,Quang Ngai,1
+179,US-2021-101511,12/15/2021,12/19/2021,Second Class,AR-10405,Nguyen Van Thanh,Viet Nam,Binh Dinh,1
+180,CA-2020-137225,12/5/2020,12/9/2020,Second Class,CR-12730,Pham Ngoc Thành,Viet Nam,Phu Yen,1
+181,CA-2021-166191,12/5/2021,12/9/2021,Standard Class,CR-12730,Hoang Van Thao,Viet Nam,Nghe An,1
+182,CA-2021-166191,11/19/2021,11/24/2021,Second Class,CR-12730,Pham Van Thuan,Viet Nam,Ha Tinh,1
+183,CA-2021-158274,11/19/2021,11/24/2021,Second Class,EH-14125,Nguyen Duc Toan,Viet Nam,Quang Binh,1
+184,CA-2020-158274,11/19/2020,11/24/2020,Second Class,EH-14125,Lo The Trinh,Viet Nam,Quang Tri,1
+185,CA-2020-158274,11/28/2020,12/2/2020,Second Class,CB-12025,Nguyen Duy Truong,Viet Nam,Tien Giang,1
+186,CA-2020-105018,8/26/2020,8/30/2020,Second Class,CB-12025,Nguyen Van Truong,Viet Nam,Tra Vinh,1
+187,CA-2020-123260,7/16/2020,7/22/2020,Standard Class,CB-12025,Cao Van Tuan,Viet Nam,Da Nang,1
+188,CA-2020-157000,7/16/2020,7/22/2020,Standard Class,CB-12025,Nguyen Oanh Viet,Viet Nam,Quang Nam,1
+189,CA-2021-157000,10/12/2021,10/14/2021,Standard Class,SP-20545,Nguyen Thion Chinh,Viet Nam,Quang Ngai,1
+190,CA-2020-102281,10/12/2020,10/14/2020,Standard Class,RC-19825,Phan Cung Chonh,Viet Nam,Binh Dinh,1
+191,CA-2021-102281,10/12/2021,10/14/2021,First Class,TH-21235,Ngu Xuon Chung,Viet Nam,Phu Yen,1
+192,CA-2021-102281,10/12/2021,10/14/2021,Standard Class,TH-21235,Cao Cuong,Viet Nam,Ha Giang,1
+193,CA-2020-102281,10/12/2020,10/14/2020,Standard Class,TH-21235,Nguyen Danh Cuong,Viet Nam,Ninh Binh,1
+194,CA-2020-102281,10/31/2020,11/6/2020,Standard Class,RP-19390,Nguyen Thi Dung,Viet Nam,Thai Binh,1
+195,CA-2020-131457,3/21/2020,3/25/2020,Standard Class,MO-17800,Nguyen Thi Dung,Viet Nam,Thai Binh,1
+196,CA-2020-140004,3/21/2020,3/25/2020,Standard Class,MO-17800,Pham Tuan Dung,Viet Nam,Long An,1
+197,CA-2021-140004,11/6/2021,11/13/2021,Standard Class,MO-17800,Nguyen Thoi Duy,Viet Nam,Dien Bien,1
+198,CA-2020-107720,7/6/2020,7/13/2020,Standard Class,TD-20995,Tran Van Ha,Viet Nam,Thanh Hoa,1
+199,US-2021-124303,9/5/2021,9/7/2021,Standard Class,RB-19570,Lo Xuon Hiep,Viet Nam,Nghe An,1
+200,HD-2021-108987,9/5/2021,9/7/2021,First Class,RB-19570,Tran Van Hiep,Viet Nam,Lao Cai,1
+201,BL-2021-108987,3/20/2021,3/25/2021,First Class,RB-19570,Nguyen The Hoàng,Viet Nam,Yen Bai,1
+202,LC-2021-108987,4/1/2021,4/3/2021,First Class,CD-11980,Vu Van Hoang,Viet Nam,Quang Binh,1
+203,TN-2021-113166,4/1/2021,4/3/2021,First Class,CD-11980,Do Van Huan,Viet Nam,Quang Tri,1
+204,NB-2021-155208,4/1/2021,4/3/2021,First Class,CD-11980,Lo Xuon Huy,Viet Nam,Ha Noi,1
+205,BK-2021-117933,4/1/2021,4/3/2021,Standard Class,CD-11980,Nguyen Thi Huyen,Viet Nam,Ha Noi,1
+206,CM-2021-117457,4/1/2021,4/3/2021,Second Class,DJ-13630,Lo Manh Khonh,Viet Nam,Hau Giang,1
+207,KG-2021-117457,4/1/2021,4/3/2021,Standard Class,DJ-13630,Ngu Trung Kion,Viet Nam,Kien Giang,1
+208,TB-2021-117457,10/20/2021,10/24/2021,Second Class,DJ-13630,Lo Xuon Lom,Viet Nam,Long An,1
+209,ND-2021-117457,10/20/2021,10/24/2021,Second Class,GT-14635,Nguyen Son Lam,Viet Nam,Soc Trang,1
+210,HD-2021-117457,12/13/2021,12/17/2021,Second Class,GT-14635,Doan Van Linh,Viet Nam,Tra Vinh,1
+211,HY-2021-117457,2/12/2021,2/18/2021,First Class,MC-17845,Nguyen Bo Manh,Viet Nam,Da Nang,1
+212,DB-2021-117457,9/26/2021,10/1/2021,Standard Class,MC-17845,Nguyen Ngoc Minh,Viet Nam,Quang Nam,1
+213,LS-2020-117457,9/26/2020,10/1/2020,Standard Class,MC-17845,Tran Dang Nam,Viet Nam,Quang Ngai,1
+214,BG-2021-117457,12/15/2021,12/22/2021,Standard Class,RA-19285,Nguyen Thua Nguyen,Viet Nam,Binh Dinh,1
+215,BN-2021-142636,12/15/2021,12/22/2021,Standard Class,NP-18325,Hoang Duc Anh,Viet Nam,Phu Yen,1
+216,BT-2021-142636,12/15/2021,12/22/2021,Standard Class,NP-18325,Luu Trang Anh,Viet Nam,Ha Giang,1
+217,BD-2021-122105,4/22/2021,4/29/2021,Standard Class,NP-18325,Pham Hoang Anh,Viet Nam,Ninh Binh,1
+218,BP-2021-148796,4/22/2021,4/29/2021,Standard Class,AB-10165,Pham Thi Hien Anh,Viet Nam,Thai Binh,1
+219,BT-2020-154816,4/22/2020,4/29/2020,Standard Class,AB-10165,Pham Khac Viet Anh,Viet Nam,Thai Binh,1
+220,CM-2021-110478,4/22/2021,4/29/2021,Standard Class,JO-15550,Do Hoang Gia Bao,Viet Nam,Long An,1
+221,CB-2021-110478,4/22/2021,4/29/2021,Standard Class,JO-15550,Tran Thi Minh Chau,Viet Nam,Dien Bien,1
+222,CB-2021-142048,1/17/2021,1/24/2021,Standard Class,JO-15550,Tang Phuong Chi,Viet Nam,Thanh Hoa,1
+223,DN-2021-125388,3/31/2021,4/4/2021,Standard Class,JO-15550,Gan Feng Du,Viet Nam,Nghe An,1
+224,DN-2021-125388,12/16/2021,12/20/2021,Standard Class,JO-15550,Pham Tien Dung,Viet Nam,Lao Cai,1
+225,DN-2021-155705,12/20/2021,12/24/2021,Standard Class,JO-15550,Nguyen Thoi Duong,Viet Nam,Yen Bai,1
+226,DB-2021-149160,11/9/2021,11/11/2021,Standard Class,JO-15550,Tran An Duong,Viet Nam,Quang Binh,1
+227,DB-2021-149160,11/9/2021,11/11/2021,Standard Class,Dl-13600,Mac Trung Duc,Viet Nam,Quang Tri,1
+228,DB-2021-101476,11/11/2021,11/11/2021,Standard Class,AS-10285,Vu Huong Giang,Viet Nam,Ha Noi,1
+229,DB-2021-152275,11/12/2021,11/11/2021,Standard Class,JK-15370,Pham Vu Ngoc Diep,Viet Nam,Ha Noi,1
+230,DN-2021-123750,11/13/2021,7/19/2021,First Class,BN-11470,Tran Duc Duong,Viet Nam,Hau Giang,1
+231,DT-2021-123750,11/14/2021,11/2/2021,Standard Class,BN-11470,Nguyen Quoc Huy,Viet Nam,Thai Nguyen,1
+232,DT-2021-123750,11/15/2021,7/2/2021,Standard Class,BN-11470,Pham Bao Linh,Viet Nam,Ninh Binh,1
+233,DT-2021-123750,11/16/2021,7/2/2021,Second Class,DP-13165,Dinh Thuy Linh,Viet Nam,Thai Binh,1
+234,GL-2021-127369,11/17/2021,10/10/2021,Second Class,DP-13165,Nguyen Thuy Linh,Viet Nam,Thai Binh,1
+235,HG-2021-150574,11/18/2021,7/27/2021,Second Class,DP-13165,Do Ha Linh,Viet Nam,Ha Nam,1
+236,DB-2021-150574,11/19/2021,7/27/2021,First Class,TH-21550,Vu Thuy Linh,Viet Nam,Nghe An,1
+237,SL-2021-147375,11/20/2021,6/13/2021,Standard Class,AP-10915,Do Thuy Linh,Viet Nam,Hoa Binh,1
+238,SL-2021-147375,11/21/2021,6/13/2021,Standard Class,RS-19765,Hoàng Nhat Mai,Viet Nam,Son La,1
+239,SL-2021-130043,11/22/2021,6/13/2021,Standard Class,RS-19765,Nguyen Trong Minh,Viet Nam,Dien Bien,1
+240,HN-2021-157252,11/23/2021,10/31/2021,Standard Class,RS-19765,Ngu Gia Minh,Viet Nam,Thanh Hoa,1
+241,HN-2021-115756,11/24/2021,6/13/2021,Standard Class,Dl-13600,Mai Hoàng Minh,Viet Nam,Hau Giang,1
+242,HN-2021-115756,11/25/2021,6/13/2021,First Class,SV-20365,Do Hai Nam,Viet Nam,Kien Giang,1
+243,HN-2021-115756,11/26/2021,6/13/2021,Standard Class,KC-16540,Tran Bao Ngon,Viet Nam,Long An,1
+244,HN-2021-115756,11/27/2021,9/19/2021,Standard Class,CK-12325,Tran Kim Ngon,Viet Nam,Ho Chi Minh,1
+245,HN-2021-115756,11/28/2021,9/19/2021,Second Class,CK-12325,Do Minh Ngoc,Viet Nam,Ba Ria Vung Tau,1
+246,HN-2021-115756,11/29/2021,5/14/2021,Second Class,RD-19810,Bui Khonh Ngoc,Viet Nam,Binh Duong,1
+247,HN-2021-154214,11/30/2021,3/21/2021,Standard Class,MP-17965,Tran Uyon Nhi,Viet Nam,Nghe An,1
+248,HN-2021-166674,12/1/2021,12/31/2021,Second Class,MP-17965,Pham Dang Gia Nhu,Viet Nam,Ha Tinh,1
+249,HT-2021-166674,12/2/2021,7/31/2021,Second Class,MR-17545,Lo Tat Hoàng Phot,Viet Nam,Quang Binh,1
+250,HT-2021-166674,12/3/2021,7/31/2021,Second Class,SC-20695,Dào Tuan Phong,Viet Nam,Quang Tri,1
+251,HT-2021-166674,12/4/2021,7/31/2021,Second Class,JF-15355,Nguyen Phy Hai Phong,Viet Nam,Tien Giang,1
+252,HT-2021-166675,12/5/2021,7/31/2021,Second Class,JF-15355,Tran Trung Phong,Viet Nam,Tra Vinh,1
+253,SL-2021-166676,12/6/2021,6/4/2021,Second Class,EG-13900,Bui Thành Tai,Viet Nam,Da Nang,1
+254,HY-2021-166677,12/7/2021,6/4/2021,Second Class,EG-13900,Dang Thanh Thao,Viet Nam,Nghe An,1
+255,SL-2021-166678,12/8/2021,6/4/2021,Second Class,EG-13900,Nguyen Truong Thinh,Viet Nam,Lao Cai,1
+256,KH-2021-166679,12/9/2021,6/4/2021,Second Class,EG-13900,Duong Phyc Thinh,Viet Nam,Yen Bai,1
+257,KG-2021-166680,12/10/2021,6/4/2021,Second Class,EG-13900,Nguyen Minh Thu,Viet Nam,Quang Binh,1
+258,HP-2021-166681,12/11/2021,11/15/2021,Second Class,DS-13030,Bui Trung Minh Tro,Viet Nam,Quang Tri,1
+259,SL-2020-166682,12/12/2020,3/22/2020,Second Class,DS-13030,Hoàng Quoc Trung,Viet Nam,Ha Noi,1
+260,PT-2020-166683,12/13/2020,3/22/2020,Second Class,DS-13030,Vu Huu Minh Tuong,Viet Nam,Ha Noi,1
+261,QN-2020-166684,12/14/2020,3/22/2020,Second Class,DS-13030,Lo Thi Phuong Vy,Viet Nam,Hau Giang,1
+262,SL-2020-166685,12/15/2020,3/22/2020,Standard Class,DS-13030,Dong Duc Anh ,Viet Nam,Kien Giang,1
+263,SL-2021-166686,12/16/2021,11/27/2021,Standard Class,DS-13030,Vu Ngon Anh ,Viet Nam,Long An,1
+264,SL-2021-166687,12/17/2021,11/27/2021,Standard Class,GZ-14470,Tran Mai Quynh Anh,Viet Nam,Soc Trang,1
+265,SL-2021-166688,12/18/2021,10/23/2021,Standard Class,PO-19195,Nguyen Thi Tung Chi,Viet Nam,Tra Vinh,1
+266,SL-2021-166689,12/19/2021,12/25/2021,Standard Class,PO-19195,Pham Quang Dung,Viet Nam,Da Nang,1
+267,SL-2021-166690,12/20/2021,12/25/2021,Standard Class,PO-19195,Nguyen Tung Duong,Viet Nam,Quang Nam,1
+268,HN-2021-166691,12/21/2021,1/27/2021,Standard Class,SS-20875,Pham Duc Dat ,Viet Nam,Quang Ngai,1
+269,HN-2021-166692,12/22/2021,1/27/2021,Standard Class,SS-20875,Nguyen Hai Dung ,Viet Nam,Binh Dinh,1
+270,HN-2021-166693,12/23/2021,1/27/2021,Standard Class,SS-20875,Nguyen Duy Duc,Viet Nam,Phu Yen,1
+271,HN-2021-166694,12/24/2021,1/27/2021,Standard Class,SS-20875,Nguyen Vu Minh Duc,Viet Nam,Ha Giang,1
+272,HN-2020-166695,12/25/2020,3/26/2020,Standard Class,JM-15265,Trinh Viet Duc,Viet Nam,Ninh Binh,1
+273,VP-2021-166696,12/26/2021,3/26/2021,Standard Class,SD-20485,Luu Huong Giang,Viet Nam,Thai Binh,1
+274,TQ-2021-166697,12/27/2021,3/26/2021,Standard Class,KH-16630,Quan Gia Hon ,Viet Nam,Thai Binh,1
+275,QB-2021-166698,12/28/2021,1/25/2021,Standard Class,RB-19795,Nguyen Trong Hieu ,Viet Nam,Long An,1
+276,QN-2021-166699,12/29/2021,5/23/2021,Standard Class,RB-19795,Nguyen Quang Hung,Viet Nam,Dien Bien,1
+277,SL-2021-166700,12/30/2021,5/23/2021,Standard Class,RB-19795,Tran Gia Huy,Viet Nam,Thanh Hoa,1
+278,TN-2020-166701,12/31/2020,1/2/2020,Second Class,RB-19795,Dang Vu Huy,Viet Nam,Nghe An,1
+279,ST-2021-166702,1/1/2021,10/26/2021,Standard Class,DB-13060,Pham Ngoc Huyen,Viet Nam,Lao Cai,1
+280,TH-2021-166703,1/2/2021,10/26/2021,Second Class,MK-18160,Tran Ngoc Khonh,Viet Nam,Yen Bai,1
+281,TV-2021-166704,1/3/2021,9/7/2021,Second Class,MK-18160,Bui Duc Kion ,Viet Nam,Quang Binh,1
+282,PY-2021-166705,1/4/2021,9/7/2021,Second Class,PO-19180,Bui Hai Lom ,Viet Nam,Quang Tri,1
+283,LC-2021-166706,1/5/2021,9/7/2021,Second Class,PO-19180,Duong Khanh Linh,Viet Nam,Ha Noi,1
+284,HN-2021-166707,2/12/2021,10/8/2021,Second Class,BB-11545,Tran Huy Hoang Linh,Viet Nam,Ha Noi,1
+285,HB-2020-166708,2/13/2020,10/8/2020,Second Class,CV-12805,Tran Nhat Long,Viet Nam,Hau Giang,1
+286,HD-2021-166709,2/14/2021,1/4/2021,Standard Class,PK-19075,Tran Duc Luong,Viet Nam,Thai Nguyen,1
+287,HN-2021-166710,2/15/2021,1/4/2021,Standard Class,PK-19075,Nguyen Duc Minh,Viet Nam,Ninh Binh,1
+288,HN-2021-140963,2/16/2021,1/4/2021,Standard Class,PK-19075,Doàn Hai Minh,Viet Nam,Thai Binh,1
+289,HN-2021-166712,2/17/2021,1/4/2021,Standard Class,PK-19075,Mai Xuon Minh ,Viet Nam,Thai Binh,1
+290,HN-2021-166713,2/18/2021,11/7/2021,Standard Class,PK-19075,Bui Xuon Nam ,Viet Nam,Ha Nam,1
+291,HN-2020-166714,2/19/2020,9/22/2020,Standard Class,PK-19075,Bui Khonh Ngoc ,Viet Nam,Nghe An,1
+292,HN-2021-166715,2/20/2021,9/22/2021,Standard Class,TB-21595,Mai Phuong Ngoc ,Viet Nam,Hoa Binh,1
+293,HN-2021-166716,2/21/2021,9/22/2021,First Class,RB-19360,Nguyen Yen Nhi ,Viet Nam,Binh Duong,1
+294,HN-2021-166717,2/22/2021,7/26/2021,First Class,RB-19360,Dinh Ngoc Quynh Nhu,Viet Nam,An Giang,1
+295,HN-2021-166718,2/23/2021,7/26/2021,First Class,RB-19360,Nguyen Minh Phuong,Viet Nam,Bac Lieu,1
+296,HN-2021-166719,2/24/2021,9/14/2021,First Class,RB-19360,Nguyen Minh Quon ,Viet Nam,Ben Tre,1
+297,HN-2020-166720,2/25/2020,12/5/2020,Second Class,RB-19360,Nguyen Thyy Quynh ,Viet Nam,Can Tho,1
+298,HN-2020-166721,2/26/2020,12/5/2020,Second Class,RB-19360,Lo Thi Minh Tom ,Viet Nam,Dong Thap,1
+299,HN-2020-166722,2/27/2020,12/5/2020,Second Class,EB-13705,Hoàng Duc Thanh,Viet Nam,Binh Dinh,1
+300,SL-2020-166723,2/28/2020,12/5/2020,Standard Class,EB-13705,Nguyen Duc Thien,Viet Nam,Phu Yen,1
+301,LC-2020-166724,3/1/2020,12/5/2020,Standard Class,KH-16630,Pham Thi Thu Trang,Viet Nam,Khanh Hoa,1
+302,LC-2020-166725,3/2/2020,7/9/2020,Standard Class,SC-20095,Dong Thanh Phuong,Viet Nam,Ha Giang,1
+303,LC-2020-166726,3/3/2020,7/9/2020,Second Class,NF-18385,Vu Duc Nghia,Viet Nam,Tuyen Quang,1
+304,LC-2021-166727,3/4/2021,3/24/2021,Standard Class,NF-18385,Tran Duc Hoan,Viet Nam,Bac Kan,1
+305,LC-2021-166728,3/5/2021,3/24/2021,Standard Class,JH-15985,Nguyen Thanh Tung,Viet Nam,Thai Nguyen,1
+306,LC-2021-166729,3/6/2021,3/24/2021,Standard Class,JH-15985,Pham Hong Son,Viet Nam,Lang Son,1
+307,LC-2021-166730,3/7/2021,3/24/2021,Standard Class,JH-15985,Nguyen Manh Dung,Viet Nam,Bac Giang,1
+308,LC-2021-166731,3/8/2021,1/13/2021,Standard Class,TN-21040,Pham Van Cung,Viet Nam,Ha Noi,1
+309,LC-2021-166732,3/9/2021,1/13/2021,Standard Class,TN-21040,Nguyen Hong Nam ,Viet Nam,Bac Ninh,1
+310,SL-2020-166733,3/10/2020,8/15/2020,Standard Class,TN-21040,Nguyen Duy Hung,Viet Nam,Ha Noi,1
+311,HN-2021-166734,3/11/2021,8/15/2021,Standard Class,TN-21040,Nguyen Binh Minh,Viet Nam,Lai Chau,1
+312,HN-2021-166735,3/12/2021,8/15/2021,Standard Class,TN-21040,Trinh Xuan Cuong,Viet Nam,Ha Noi,1
+313,SL-2021-166736,3/13/2021,8/15/2021,Standard Class,JS-15940,Luu Van Tuan,Viet Nam,Ha Noi,1
+314,HN-2021-166737,3/14/2021,7/16/2021,Second Class,DS-13180,Quan Van Tao ,Viet Nam,Ha Noi,1
+315,HN-2020-166738,7/16/2020,7/21/2020,Standard Class,CC-12670,Nguyen Thi Linh,Viet Nam,Ho Chi Minh,1
+316,HN-2021-166739,9/18/2021,9/23/2021,Standard Class,MH-17785,Nguyen Quang Thang,Viet Nam,Ho Chi Minh,1
+317,HN-2021-166740,9/18/2021,9/23/2021,Standard Class,JP-15520,Tran Thanh Tung,Viet Nam,Long An,1
+318,HN-2021-166741,9/18/2021,9/23/2021,Standard Class,JP-15520,Dang Hung Thinh ,Viet Nam,Thai Nguyen,1
+319,HN-2021-166742,12/22/2021,12/27/2021,First Class,JP-15520,Pham Duc Thang,Viet Nam,Ninh Binh,1
+320,HN-2020-166743,9/7/2020,9/12/2020,First Class,JP-15520,Tran Thanh,Viet Nam,Thai Binh,1
+321,HN-2021-166744,10/22/2021,10/28/2021,First Class,JP-15520,Bui Thanh Tung,Viet Nam,Thai Binh,1
+322,HN-2021-166745,12/5/2021,12/9/2021,Standard Class,JP-15520,Bui Truong Son,Viet Nam,Ha Nam,1
+323,SL-2021-166746,12/5/2021,12/9/2021,Standard Class,KH-16690,Duong The Tung,Viet Nam,Nghe An,1
+324,SL-2021-166747,12/5/2021,12/9/2021,Standard Class,JE-15475,Tran Tang Xuan,Viet Nam,Hoa Binh,1
+325,SL-2021-166748,12/5/2021,12/9/2021,Standard Class,JG-15805,Dao Xuan Manh,Viet Nam,Son La,1
+326,HN-2021-166749,3/13/2021,3/16/2021,Standard Class,JG-15805,Tran  Hoan,Viet Nam,Dien Bien,1
+327,HD-2020-166750,3/13/2020,3/16/2020,Standard Class,XP-21865,Nguyen Duc Thuan,Viet Nam,Thanh Hoa,1
+328,HD-2021-166751,5/31/2021,6/2/2021,Standard Class,EM-14065,Doan The Hung,Viet Nam,Nghe An,1
+329,HD-2021-166752,5/31/2021,6/2/2021,Standard Class,EM-14065,Mai Xuan Khai,Viet Nam,Lao Cai,1
+330,HD-2021-166753,5/31/2021,6/2/2021,Standard Class,MT-18070,Bui Binh Minh,Viet Nam,Yen Bai,1
+331,HD-2020-166754,5/28/2020,6/3/2020,First Class,MT-18070,Bui Van Dat,Viet Nam,Quang Binh,1
+332,TN-2021-166755,3/1/2021,3/6/2021,First Class,MT-18070,Mai Ngoc Tan,Viet Nam,Hoa Binh,1
+333,HN-2020-166756,11/20/2020,11/24/2020,First Class,SA-20830,Nguyen Khanh Hoai,Viet Nam,Binh Duong,1
+334,TN-2021-166757,11/20/2021,11/24/2021,Standard Class,CW-11905,Dinh Van Dien,Viet Nam,An Giang,1
+335,HG-2021-166758,5/11/2021,5/12/2021,Standard Class,CW-11905,Nguyen Duc Tien,Viet Nam,Bac Lieu,1
+336,HG-2021-166759,12/28/2021,12/31/2021,Standard Class,CW-11905,Nguyen Van Hung,Viet Nam,Ben Tre,1
+337,HG-2021-166760,11/16/2021,11/20/2021,Standard Class,AJ-10960,Nguyen Anh Tuan,Viet Nam,Can Tho,1
+338,LC-2021-166761,11/7/2020,11/11/2020,Standard Class,AJ-10960,Lo Binh Nguyen,Viet Nam,Dong Thap,1
+339,LC-2021-166762,9/8/2021,9/12/2021,Standard Class,SS-20590,Hoang Quang Hung,Viet Nam,Binh Dinh,1
+340,HN-2021-166763,9/8/2021,9/12/2021,Second Class,RO-19780,Do Quoc Thang,Viet Nam,Phu Yen,1
+341,HY-2021-166764,9/8/2021,9/12/2021,Standard Class,MD-17350,Pham Manh Hung,Viet Nam,Khanh Hoa,1
+342,HY-2021-166765,9/8/2021,9/12/2021,Second Class,SC-20095,Luong Thi Thyy An,Viet Nam,Ha Giang,1
+343,HY-2020-166766,9/8/2020,9/12/2020,Second Class,SC-20095,Bui Quynh Anh,Viet Nam,Tuyen Quang,1
+344,HY-2021-166767,9/8/2021,9/12/2021,Standard Class,SC-20095,Pham Phuong Anh,Viet Nam,Bac Kan,1
+345,HY-2020-166768,9/8/2020,9/12/2020,Second Class,SC-20095,Pham Hoang Bich,Viet Nam,Thai Nguyen,1
+346,HY-2021-166769,8/5/2021,8/9/2021,Standard Class,MY-17380,Doan Viet Bach,Viet Nam,Lang Son,1
+347,HY-2021-166770,8/5/2021,8/9/2021,Standard Class,MY-17380,Tran Lo Gia Bao,Viet Nam,Bac Giang,1
+348,SL-2021-166771,8/5/2021,8/9/2021,Standard Class,MY-17380,Bui Ngoc Chi,Viet Nam,Ha Noi,1
+349,SL-2021-166772,9/14/2021,9/19/2021,First Class,MY-17380,Ng Hoàng Kim Cuong,Viet Nam,Bac Ninh,1
+350,HN-2021-166773,9/14/2021,9/19/2021,First Class,MY-17380,Hoàng Trung Dung,Viet Nam,Ha Noi,1
+351,HN-2020-166774,4/21/2020,4/25/2020,Standard Class,EB-13705,Pham Anh Duy,Viet Nam,Lai Chau,1
+352,HN-2020-216775,11/21/2020,11/23/2020,Standard Class,CM-12385,Bui Cung Duy,Viet Nam,Ha Noi,1
+353,HN-2021-166776,11/21/2021,11/23/2021,Standard Class,CM-12385,Bui Nhat Duong,Viet Nam,Ha Noi,1
+354,HN-2021-166777,12/15/2021,12/19/2021,Standard Class,CM-12385,Do Duy Doan,Viet Nam,Ha Noi,1
+355,HN-2021-166778,12/5/2021,12/9/2021,First Class,CM-12385,Do Duy Hai,Viet Nam,Ho Chi Minh,1
+356,HN-2021-166779,12/5/2021,12/9/2021,First Class,LS-17245,Luong Bao Han,Viet Nam,Ho Chi Minh,1
+357,HN-2021-166780,11/19/2021,11/24/2021,Second Class,LS-17245,Do Gia Han,Viet Nam,Long An,1
+358,HN-2021-166781,11/19/2021,11/24/2021,Second Class,LF-17185,Pham Minh Hien,Viet Nam,Thai Nguyen,1
+359,HN-2021-166782,11/19/2021,11/24/2021,Second Class,BN-11515,Nguyen Duc Hieu,Viet Nam,Ninh Binh,1
+360,HN-2021-166783,11/28/2021,12/2/2021,Second Class,BN-11515,Pham Gia Huy,Viet Nam,Thai Binh,1
+361,HN-2021-166784,8/26/2021,8/30/2021,First Class,AD-10180,Nguyen Minh Huyen,Viet Nam,Thai Binh,1
+362,HN-2021-166785,7/16/2021,7/22/2021,Standard Class,AD-10180,Bui Cung Khanh,Viet Nam,Ha Nam,1
+363,HN-2021-166786,7/16/2021,7/22/2021,Second Class,AD-10180,Nguyen Hoang Lam,Viet Nam,Nghe An,1
+364,LC-2021-166787,10/12/2021,10/14/2021,Second Class,AD-10180,Van Tien Long,Viet Nam,Hoa Binh,1
+365,LC-2020-166788,10/12/2020,10/14/2020,Standard Class,DB-13210,Hoang Hai Minh,Viet Nam,Son La,1
+366,LC-2021-166789,10/12/2021,10/14/2021,Standard Class,DB-13210,Nguyen Tuan Minh,Viet Nam,Dien Bien,1
+367,LC-2021-166790,10/12/2021,10/14/2021,Standard Class,DB-13210,Do Tran Nam,Viet Nam,Quang Nam,1
+368,LC-2021-166791,10/12/2021,10/14/2021,Second Class,MC-17605,Tran Duc Nam,Viet Nam,Quang Ngai,1
+369,LC-2020-166792,10/31/2020,11/6/2020,Second Class,LH-17155,Nguyen Bao Nam,Viet Nam,Binh Dinh,1
+370,ND-2020-166793,3/21/2020,3/25/2020,Second Class,LH-17155,Tran Vu Ha Ngon,Viet Nam,Phu Yen,1
+371,ND-2021-166794,3/21/2021,3/25/2021,Second Class,BD-11605,Pham Tran Lan Nhi,Viet Nam,Ha Giang,1
+372,ND-2021-166795,11/6/2021,11/13/2021,First Class,PH-18790,Nguyen Dang Phong,Viet Nam,Ninh Binh,1
+373,ND-2021-166796,7/6/2021,7/13/2021,First Class,PH-18790,Bui An Phi,Viet Nam,Thai Binh,1
+374,ND-2021-166797,9/5/2021,9/7/2021,First Class,MG-18145,Do Duc Phong,Viet Nam,Thai Binh,1
+375,ND-2021-166798,9/5/2021,9/7/2021,Standard Class,MG-18145,Nguyen Hong Phong,Viet Nam,Long An,1
+376,ND-2021-166799,3/5/2021,3/24/2021,Standard Class,MG-18145,Bui Dam Mai Phuong,Viet Nam,Dien Bien,1
+377,ND-2021-166800,3/6/2021,3/24/2021,Standard Class,KB-16240,Pham Minh Phuong,Viet Nam,Thanh Hoa,1
+378,SL-2021-166801,3/7/2021,3/24/2021,Standard Class,JC-15340,Nguyen Huu Thanh,Viet Nam,Nghe An,1
+379,SL-2021-166802,3/8/2021,1/13/2021,Standard Class,RL-19615,Lai Huong Thao,Viet Nam,Lao Cai,1
+380,SL-2021-166803,3/9/2021,1/13/2021,Standard Class,RL-19615,Nguyen Quang Thien,Viet Nam,Yen Bai,1
+381,SL-2020-166804,3/10/2020,8/15/2020,Standard Class,AA-10375,Bui Quang Tan,Viet Nam,Quang Binh,1
+382,SL-2021-216805,3/11/2021,8/15/2021,Standard Class,EP-13915,Lo Vi Phuong Trinh,Viet Nam,Quang Tri,1
+383,SL-2021-166806,3/12/2021,8/15/2021,Standard Class,MP-17470,Vu Hieu Trung,Viet Nam,Ha Noi,1
+384,SL-2021-166807,3/13/2021,8/15/2021,Second Class,DK-12985,Nguyen Hoang Vy,Viet Nam,Ha Noi,1
+385,SL-2021-166808,3/14/2021,7/16/2021,Second Class,DK-12985,Vu Hai Ha An,Viet Nam,Hau Giang,1
+386,SL-2020-166809,7/16/2020,7/21/2020,Second Class,BD-11500,Pham The An,Viet Nam,Kien Giang,1
+387,HD-2021-166810,9/18/2021,9/23/2021,Standard Class,ES-14080,Nguyen Tu Lan Anh,Viet Nam,Long An,1
+388,TN-2021-166811,9/18/2021,9/23/2021,Standard Class,LM-17065,Tran Hoang Anh,Viet Nam,Soc Trang,1
+389,BG-2021-166812,9/18/2021,9/23/2021,Standard Class,PG-18895,Pham Truc Anh,Viet Nam,Tra Vinh,1
+390,BN-2021-156986,12/22/2021,12/27/2021,Standard Class,PG-18895,Nguyen Thuy Anh,Viet Nam,Da Nang,1
+391,BN-2020-166814,9/7/2020,9/12/2020,Standard Class,PG-18895,Nguyen Thao Anh,Viet Nam,Quang Nam,1
+392,NB-2021-166815,10/22/2021,10/28/2021,Standard Class,AS-10135,Doàn Duy Bao,Viet Nam,Quang Ngai,1
+393,NB-2021-166816,12/5/2021,12/9/2021,Standard Class,AS-10135,Lo Thuy Chi,Viet Nam,Binh Dinh,1
+394,NB-2021-166817,12/5/2021,12/9/2021,Standard Class,DK-13225,Tran Viet Cuong,Viet Nam,Phu Yen,1
+395,LS-2021-166818,12/5/2021,12/9/2021,Standard Class,DK-13225,Duong Minh Dung,Viet Nam,Ha Giang,1
+396,LS-2021-166819,12/5/2021,12/9/2021,Standard Class,DK-13225,Lo Sy Dung,Viet Nam,Ninh Binh,1
+397,LS-2021-166820,3/13/2021,3/16/2021,Standard Class,BD-11320,Nguyen The Duy,Viet Nam,Thai Binh,1
+398,LC-2020-166821,3/13/2020,3/16/2020,Standard Class,RC-19960,Nguyen Ngoc Ha,Viet Nam,Thai Binh,1
+399,HN-2021-166822,5/31/2021,6/2/2021,Standard Class,GT-14710,Nguyen Duc Gia Hua,Viet Nam,Long An,1
+400,HN-2021-100720,5/31/2021,6/2/2021,Standard Class,DK-13225,Dào Thanh Huy,Viet Nam,Dien Bien,1
+401,HN-2021-152156,5/31/2021,6/2/2021,Standard Class,AJ-10945,Dào Nguyen Gia Huy,Viet Nam,Thanh Hoa,1
+402,CA-2020-105074,5/28/2020,6/3/2020,Standard Class,OT-18730,Ng Huu Bonh Hung,Viet Nam,Nghe An,1
+403,CA-2021-133690,3/1/2021,3/6/2021,Standard Class,OT-18730,Lo Hoang Hung,Viet Nam,Lao Cai,1
+404,CA-2020-133690,11/20/2020,11/24/2020,Standard Class,OT-18730,Doàn Vinh Hung,Viet Nam,Yen Bai,1
+405,US-2021-116701,11/20/2021,11/24/2021,Standard Class,LP-17080,Dang Huu Khanh,Viet Nam,Quang Binh,1
+406,CA-2021-126382,5/11/2021,5/12/2021,Standard Class,LP-17080,Bui Nam Khanh,Viet Nam,Quang Tri,1
+407,CA-2021-108329,11/8/2021,11/11/2021,First Class,CA-12775,Vu Thien Khiem,Viet Nam,Ha Noi,1
+408,CA-2021-135860,6/7/2021,13/07/2021,Standard Class,CA-12775,Doan Bo Khuyen,Viet Nam,Ha Noi,1
+409,CA-2021-135860,24/06/2021,29/06/2021,Second Class,JF-15490,Tran Phuong Linh,Viet Nam,Hau Giang,1
+410,CA-2021-135860,3/8/2021,5/8/2021,Standard Class,JF-15490,Vu Ty Linh,Viet Nam,Thai Nguyen,1
+411,CA-2021-135860,3/8/2021,5/8/2021,First Class,FP-14320,Do Vu Ngoc Linh,Viet Nam,Ninh Binh,1
+412,CA-2021-135860,17/12/2021,21/12/2021,First Class,EB-13840,Hoàng Phuong Linh,Viet Nam,Thai Binh,1
+413,CA-2021-101007,3/6/2021,7/6/2021,Second Class,EB-13840,Hoang Lo Minh Long,Viet Nam,Thai Binh,1
+414,CA-2021-146262,9/12/2021,14/12/2021,Standard Class,EB-13840,Ng Thi Ngoc Luong,Viet Nam,Ha Nam,1
+415,CA-2021-146262,1/12/2021,7/12/2021,Standard Class,EB-13840,Pham Thien An,Viet Nam,Nghe An,1
+416,CA-2021-146262,1/12/2021,7/12/2021,Standard Class,JF-15415,Nguyen Anh Tuan,Viet Nam,Hoa Binh,1
+417,CA-2021-146262,1/12/2021,7/12/2021,Standard Class,JF-15415,Tran Anh Thien,Viet Nam,Ha Noi,1
+418,CA-2021-146262,1/12/2021,7/12/2021,Standard Class,JF-15415,Le Anh Khoa,Viet Nam,Tp HCM,1
+419,CA-2021-130162,1/12/2021,7/12/2021,Standard Class,JF-15415,Ma Ngoc Vu,Viet Nam,Tp HCM,1
+420,CA-2021-130162,9/2/2021,13/02/2021,Standard Class,SF-20200,Nguyen Thanh Tung,Viet Nam,Binh Duong,1
+421,CA-2021-169397,2/1/2021,9/1/2021,Second Class,TG-21640,Tran Thanh,Viet Nam,Binh Phuoc,1
+422,CA-2021-169397,2/1/2021,9/1/2021,Standard Class,TG-21640,Hoang Ton,Viet Nam,Binh Thuan,1
+423,CA-2021-169397,2/1/2021,9/1/2021,Standard Class,TG-21640,Nguyen Minh Duc,Viet Nam,Tp HCM,1
+424,CA-2021-169397,2/1/2021,9/1/2021,Standard Class,CS-11950,Pham Vu Thuy Chi,Viet Nam,Ha Noi,1
+425,CA-2021-169397,2/1/2021,9/1/2021,Standard Class,CS-11950,Duong Trieu Vu,Viet Nam,Ha Noi,1
+426,CA-2021-169397,28/10/2021,1/11/2021,Standard Class,CC-12145,Pham Minh Khanh,Viet Nam,Ben Tre,1
+427,CA-2021-163055,28/10/2021,1/11/2021,Standard Class,DV-13465,Nguyen Quang Duy,Viet Nam,Ben Tre,1
+428,CA-2021-163055,24/12/2021,27/12/2021,Standard Class,DV-13465,Nguyen Hoang Duc,Viet Nam,Ha Noi,1
+429,CA-2021-163055,24/12/2021,27/12/2021,First Class,DV-13465,Ton Hoang Giang,Viet Nam,Ha Noi,1
+430,US-2021-145436,24/12/2021,27/12/2021,First Class,DV-13465,Kanye West,Viet Nam,Thanh Hoa,1
+431,US-2021-145436,24/12/2021,27/12/2021,First Class,DV-13465,Nguyen Duc Trong,Viet Nam,Thua Thien Hue,1
+432,US-2021-156216,24/12/2021,27/12/2021,First Class,BD-11725,Travis Scott,Viet Nam,Gia Lai,1
+433,US-2021-100930,24/12/2021,27/12/2021,First Class,BD-11725,Dang Le Nguyen Vu,Viet Nam,Ha Noi,1
+434,US-2021-100930,9/8/2021,16/08/2021,First Class,ZC-21910,Tran Duc Khiem,Viet Nam,Ha Nam,1
+435,US-2021-100930,9/8/2021,16/08/2021,Standard Class,ZC-21910,Nguyen Ngoc Hoa,Viet Nam,Dien Bien,1
+436,US-2021-100930,9/8/2021,16/08/2021,Standard Class,ZC-21910,Pham Lan Anh,Viet Nam,Dong Nai,1
+437,US-2021-100930,28/02/2021,4/3/2021,Standard Class,ZC-21910,Taylor Swift,Viet Nam,Dong Thap,1
+438,CA-2021-160514,28/02/2021,4/3/2021,Standard Class,MS-17830,Dinh Tien Dat,Viet Nam,Gia Lai,1
+439,CA-2020-157749,13/09/2020,17/09/2020,Standard Class,MS-17830,Hari Won,Viet Nam,Dong Nai,1
+440,CA-2021-157749,7/4/2021,12/4/2021,Standard Class,LR-16915,Phi Thanh Van,Viet Nam,Ha Giang,1
+441,CA-2021-157749,7/4/2021,12/4/2021,Standard Class,LR-16915,Nguyen Quang Hai,Viet Nam,Tp HCM,1
+442,CA-2021-157749,7/4/2021,12/4/2021,Standard Class,LR-16915,Bui Truong Giang,Viet Nam,Ha Tinh,1
+443,CA-2021-157749,7/4/2021,12/4/2021,Standard Class,LR-16915,Vo Hong Phuc,Viet Nam,Ha Noi,1
+444,CA-2021-157749,7/4/2021,12/4/2021,Standard Class,TP-21130,Ly Thuong Kiet,Viet Nam,Hai Duong,1
+445,CA-2021-157749,12/11/2021,16/11/2021,Standard Class,CK-12205,Ngo Quyen,Viet Nam,Ha Noi,1
+446,CA-2021-131926,4/6/2021,9/6/2021,Standard Class,CG-12520,Do Chi Mai,Viet Nam,Ha Noi,1
+447,CA-2021-131926,4/6/2021,9/6/2021,Second Class,MB-17305,Phan Van Truong,Viet Nam,Tp HCM,1
+448,CA-2021-131926,4/6/2021,9/6/2021,Second Class,BS-11755,Truong Duc Dung,Viet Nam,Hau Giang,1
+449,CA-2021-131926,4/6/2021,9/6/2021,Second Class,BS-11755,Pham Nhat Vuong,Viet Nam,Hau Giang,1
+450,CA-2021-131926,4/6/2021,9/6/2021,Second Class,LC-17140,Nguyen Thi Phuong Thao,Viet Nam,Lai Chau,1
+451,CA-2021-154739,4/6/2021,9/6/2021,Second Class,HK-14890,Doan Nguyen Duc,Viet Nam,Ha Noi,1
+452,CA-2021-145625,4/6/2021,9/6/2021,Second Class,LE-16810,Nguyen Anh Vien,Viet Nam,Lai Chau,1
+453,CA-2020-145625,1/6/2020,6/6/2020,Second Class,JH-15985,Tran Khoi My,Viet Nam,Tp HCM,1
+454,CA-2020-146941,1/6/2020,6/6/2020,Second Class,JH-15985,Mai Hong Ngoc,Viet Nam,Ha Noi,1
+455,CA-2020-146941,1/6/2020,6/6/2020,Second Class,JH-15985,Phan My Tam,Viet Nam,Khanh Hoa,1
+456,US-2020-159982,1/6/2020,6/6/2020,Second Class,JH-15985,Dang Tuan Anh,Viet Nam,Kien Giang,1
+457,US-2020-159982,1/6/2020,6/6/2020,Second Class,JH-15985,Hoang Duc Anh,Viet Nam,Lai Chau,1
+458,US-2021-159982,10/12/2021,15/12/2021,Second Class,MS-17980,Mac Trung Duc,Viet Nam,Tp HCM,1
+459,US-2021-159982,11/9/2021,17/09/2021,Second Class,VW-21775,Vu Huong Giang,Viet Nam,Son La,1
+460,CA-2021-163139,11/9/2021,17/09/2021,Standard Class,VW-21775,Nguyen Thi Ngan Ha,Viet Nam,Son La,1
+461,CA-2021-163139,10/12/2021,13/12/2021,Standard Class,VW-21775,Tran Thi Hao,Viet Nam,Quang Binh,1
+462,CA-2021-163139,10/12/2021,13/12/2021,First Class,VW-21775,Vu Minh Thu,Viet Nam,Ha Noi,1
+463,US-2021-155299,28/11/2021,4/12/2021,First Class,VW-21775,Dao Duy Thai,Viet Nam,Thai Nguyen,1
+464,US-2021-106992,28/11/2021,4/12/2021,Standard Class,JH-15910,Dinh Phu Sang,Viet Nam,Vinh Long,1
+465,US-2021-106992,28/11/2021,4/12/2021,Standard Class,JH-15910,Nguyen Tuyet Anh Nhi,Viet Nam,Tay Ninh,1
+466,CA-2021-125318,28/11/2021,4/12/2021,Standard Class,JB-15925,Nguyen Tuan Hung,Viet Nam,Ha Noi,1
+467,CA-2021-155040,1/12/2021,3/12/2021,Standard Class,JB-15925,Tran Duc Hung,Viet Nam,Vinh Phuc,1
+468,CA-2021-136826,1/12/2021,3/12/2021,Second Class,JB-15925,Nguyen Tien Hung,Viet Nam,Vinh Phuc,1
+469,CA-2021-111010,1/12/2021,3/12/2021,Second Class,JB-15925,Le Nguyen Dieu Huong,Viet Nam,Yen Bai,1
+470,US-2021-145366,8/6/2021,12/6/2021,Second Class,JB-15925,Nguyen Huu Ngoc Khanh,Viet Nam,Yen Bai,1
+471,US-2020-145366,19/09/2020,21/09/2020,Standard Class,JB-15925,Bui Nam Khanh,Viet Nam,Yen Bai,1
+472,CA-2020-163979,19/09/2020,21/09/2020,Second Class,DS-13180,Dinh Ngoc Khanh,Viet Nam,Ha Noi,1
+473,CA-2021-155334,6/6/2021,13/06/2021,Second Class,DS-13180,Ho Nguyen Minh Khue,Viet Nam,Tuyen Quang,1
+474,CA-2021-155334,10/11/2021,15/11/2021,Standard Class,DS-13180,Pham Vu Diep Lam,Viet Nam,Quang Tri,1
+475,CA-2021-155334,16/06/2021,20/06/2021,Standard Class,VD-21670,Dinh Hoang Tung Lam,Viet Nam,Can Tho,1
+476,CA-2021-118136,22/01/2021,28/01/2021,Standard Class,VD-21670,Le Quang Long,Viet Nam,Tp HCM,1
+477,CA-2021-118136,9/12/2021,13/12/2021,Standard Class,EA-14035,Pham Thi Phuong Mai,Viet Nam,Tp HCM,1
+478,CA-2021-132976,9/12/2021,13/12/2021,Standard Class,CS-12400,Le Tran Tuan Minh,Viet Nam,Tp HCM,1
+479,CA-2021-132976,28/12/2021,2/1/2021,Standard Class,CS-12400,Nguyen Thi Bich Ngoc,Viet Nam,Can Tho,1
+480,CA-2021-132976,30/07/2021,31/07/2021,Second Class,CS-12400,Le Trung Nguyon,Viet Nam,Hai Phong,1
+481,CA-2021-132976,30/07/2021,31/07/2021,First Class,CS-12400,Le Quynh Nhi,Viet Nam,Binh Phuoc,1
+482,US-2021-161991,30/07/2021,31/07/2021,First Class,CS-12400,Ha Duy Anh ,Viet Nam,Ha Noi,1
+483,US-2021-161991,16/09/2021,17/09/2021,First Class,DB-13120,Dong Duc Anh ,Viet Nam,Bac Lieu,1
+484,CA-2021-130890,16/09/2021,17/09/2021,First Class,KL-16645,Vu Ngon Anh ,Viet Nam,Dong Thap,1
+485,CA-2021-130883,13/10/2021,17/10/2021,First Class,KL-16645,Tran Mai Quynh Anh,Viet Nam,Dong Thap,1
+486,CA-2021-130883,13/10/2021,17/10/2021,Standard Class,KL-16645,Nguyen Thi Tung Chi,Viet Nam,Lang Son,1
+487,CA-2021-130883,13/10/2021,17/10/2021,Standard Class,KL-16645,Pham Quang Dung,Viet Nam,Hau Giang,1
+488,CA-2021-112697,13/10/2021,17/10/2021,Standard Class,KL-16645,Nguyen Tung Duong,Viet Nam,Ha Noi,1
+489,CA-2021-112697,26/09/2021,28/09/2021,Standard Class,KL-16645,Pham Duc Dat ,Viet Nam,Hoa Binh,1
+490,CA-2021-112697,26/09/2021,28/09/2021,Second Class,KL-16645,Nguyen Hai Dung ,Viet Nam,Hung Yen,1
+491,CA-2021-110772,2/11/2021,6/11/2021,Second Class,DW-13480,Nguyen Duy Duc,Viet Nam,Khanh Hoa,1
+492,CA-2021-110772,26/09/2021,2/10/2021,Standard Class,DW-13480,Nguyen Vu Minh Duc,Viet Nam,Bac Kan,1
+493,CA-2021-110772,26/09/2021,2/10/2021,Standard Class,DW-13480,Trinh Viet Duc,Viet Nam,Ha Noi,1
+494,CA-2021-110772,26/09/2021,2/10/2021,Standard Class,DW-13480,Luu Huong Giang,Viet Nam,Ha Noi,1
+495,CA-2021-111451,18/12/2021,20/12/2021,Standard Class,DW-13480,Quan Gia Hon ,Viet Nam,Nam Dinh,1
+496,CA-2021-111451,18/12/2021,20/12/2021,Second Class,LH-17155,Nguyen Trong Hieu ,Viet Nam,Nghe An,1
+497,CA-2021-111451,18/12/2021,20/12/2021,Second Class,KC-16540,Nguyen Quang Hung,Viet Nam,Ninh Binh,1
+498,CA-2021-111451,20/11/2021,24/11/2021,Second Class,KC-16540,Tran Gia Huy,Viet Nam,Ha Noi,1
+499,CA-2021-111451,20/11/2021,24/11/2021,Second Class,DL-13315,Dang Vu Huy,Viet Nam,Ha Noi,1
+500,CA-2021-142545,20/11/2021,24/11/2021,Second Class,DL-13315,Pham Ngoc Huyen,Viet Nam,Ha Noi,1
+501,CA-2021-142545,20/11/2021,24/11/2021,Second Class,DR-12880,Tran Ngoc Khanh,Viet Nam,Ha Noi,1
+502,CA-2020-142545,26/12/2020,28/12/2020,Second Class,DR-12880,Bui Duc Kien ,Viet Nam,Gia Lai,1
+503,CA-2020-142545,26/12/2020,28/12/2020,First Class,DR-12880,Bui Hai Lam ,Viet Nam,Gia Lai,1
+504,CA-2020-142545,26/12/2020,28/12/2020,First Class,DR-12880,Duong Khanh Linh,Viet Nam,Ha Tinh,1
+505,US-2020-152380,26/12/2020,28/12/2020,First Class,CC-12670,Tran Huy Hoang Linh,Viet Nam,Da Nang,1
+506,CA-2020-144253,26/12/2020,28/12/2020,First Class,CC-12670,Tran Nhat Long,Viet Nam,Ha Noi,1
+507,CA-2021-130960,28/10/2021,3/11/2021,First Class,CC-12670,Tran Duc Luong,Viet Nam,Khanh Hoa,1
+508,CA-2021-111003,28/10/2021,3/11/2021,Standard Class,Dl-13600,Nguyen Duc Minh,Viet Nam,Kien Giang,1
+509,CA-2021-111003,28/10/2021,3/11/2021,Standard Class,SB-20290,Doan Hai Minh,Viet Nam,Kon Tum,1
+510,CA-2021-126774,28/10/2021,3/11/2021,Standard Class,SB-20290,Mai Xuan Minh ,Viet Nam,Ha Noi,1
+511,CA-2021-142902,28/10/2021,3/11/2021,Standard Class,RC-19825,Bui Xuan Nam ,Viet Nam,Long An,1
+512,CA-2021-142902,19/11/2021,23/11/2021,Standard Class,AH-10210,Bui Khanh Ngoc ,Viet Nam,Nam Dinh,1
+513,CA-2021-142902,4/5/2021,9/5/2021,Standard Class,CB-12535,Mai Phuong Ngoc ,Viet Nam,Da Nang,1
+514,CA-2020-142902,30/12/2020,4/1/2021,Second Class,PG-18895,Nguyen Yen Nhi ,Viet Nam,Da Nang,1
+515,CA-2020-120887,1/6/2020,6/6/2020,Standard Class,CA-12310,Dinh Ngoc Quynh Nhu,Viet Nam,Ha Noi,1
+516,CA-2020-167850,1/6/2020,6/6/2020,Standard Class,CA-12310,Nguyen Minh Phuong,Viet Nam,Quang Tri,1
+517,CA-2021-167850,15/04/2021,17/04/2021,Standard Class,KH-16690,Nguyen Minh Quan ,Viet Nam,Soc Trang,1
+518,CA-2021-164259,12/9/2021,14/09/2021,First Class,HA-14920,Nguyen Thuy Quynh ,Viet Nam,Da Nang,1
+519,CA-2021-164973,12/9/2021,14/09/2021,Second Class,HA-14920,Le Thi Minh Tam ,Viet Nam,Da Nang,1
+520,CA-2021-164973,12/9/2021,14/09/2021,Second Class,HA-14920,Hoang Duc Thanh,Viet Nam,Ha Noi,1
+521,CA-2021-164973,12/9/2021,14/09/2021,Second Class,BB-10990,Nguyen Duc Thien,Viet Nam,Ha Noi,1
+522,CA-2020-164973,27/09/2020,3/10/2020,Second Class,BB-10990,Pham Thi Thu Trang,Viet Nam,Thai Nguyen,1
+523,CA-2020-164973,9/8/2020,16/08/2020,Standard Class,AG-10495,Vu Hai Ha An,Viet Nam,Thanh Hoa,1
+524,CA-2020-156601,9/8/2020,16/08/2020,Standard Class,AG-10495,Pham The An,Viet Nam,Da Nang,1
+525,CA-2020-162138,28/12/2020,30/12/2020,Standard Class,AG-10495,Nguyen Tu Lan Anh,Viet Nam,Da Nang,1
+526,CA-2020-162138,4/11/2020,9/11/2020,First Class,AG-10495,Tran Hoang Anh,Viet Nam,Da Nang,1
+527,CA-2020-153339,4/11/2020,9/11/2020,Standard Class,SC-20725,Pham Truc Anh,Viet Nam,Ha Noi,1
+528,US-2020-141544,4/11/2020,9/11/2020,Standard Class,SC-20725,Nguyen Thuy Anh,Viet Nam,Ha Noi,1
+529,US-2020-141544,4/11/2020,9/11/2020,Standard Class,JO-15280,Nguyen Thao Anh,Viet Nam,Tay Ninh,1
+530,US-2020-141544,4/11/2020,9/11/2020,Standard Class,TB-21520,Doan Duy Bao,Viet Nam,Thai Binh,1
+531,US-2020-141544,19/09/2020,24/09/2020,Standard Class,TB-21520,Le Thuy Chi,Viet Nam,Thai Nguyen,1
+532,US-2021-141544,23/04/2021,27/04/2021,Standard Class,TB-21520,Tran Viet Cuong,Viet Nam,Thanh Hoa,1
+533,US-2021-150147,23/04/2021,27/04/2021,Standard Class,AH-10195,Duong Minh Dung,Viet Nam,Da Nang,1
+534,US-2021-150147,3/11/2021,5/11/2021,Standard Class,AH-10195,Lo Sy Dung,Viet Nam,Da Nang,1
+535,US-2021-150147,30/08/2021,1/9/2021,Second Class,AH-10195,Nguyen The Duy,Viet Nam,Hai Phong,1
+536,CA-2021-137946,30/08/2021,1/9/2021,First Class,NZ-18565,Nguyen Ngoc Ha,Viet Nam,Phu Yen,1
+537,CA-2021-137946,30/08/2021,1/9/2021,First Class,NZ-18565,Nguyen Duc Gia Hoa,Viet Nam,Thai Nguyen,1
+538,CA-2021-137946,30/08/2021,1/9/2021,First Class,NZ-18565,Dao Thanh Huy,Viet Nam,Ha Noi,1
+539,CA-2021-129924,30/08/2021,1/9/2021,First Class,NZ-18565,Dao Nguyen Gia Huy,Viet Nam,Lam Dong,1
+540,CA-2021-129924,25/04/2021,29/04/2021,First Class,KL-16555,Nguyen Huu Binh Hung,Viet Nam,Da Nang,1
+541,CA-2021-128167,25/04/2021,29/04/2021,Second Class,KL-16555,Le Hoang Hung,Viet Nam,Hai Phong,1
+542,CA-2021-122336,25/04/2021,29/04/2021,Second Class,KL-16555,Doan Vinh Hung,Viet Nam,Khanh Hoa,1
+543,CA-2021-122336,1/9/2021,4/9/2021,Second Class,KL-16555,Dang Huu Khanh,Viet Nam,Ha Noi,1
+544,CA-2021-122336,1/9/2021,4/9/2021,Second Class,KL-16555,Bui Nam Khanh,Viet Nam,Tp HCM,1
+545,CA-2021-122336,1/9/2021,4/9/2021,Second Class,JD-15895,Vu Thien Khiem,Viet Nam,Tp HCM,1
+546,US-2020-120712,12/7/2020,17/07/2020,Second Class,JD-15895,Doan Ba Khuyen,Viet Nam,Tp HCM,1
+547,CA-2020-169901,12/7/2020,17/07/2020,Standard Class,JD-15895,Tran Phuong Linh,Viet Nam,Da Nang,1
+548,CA-2021-134306,22/06/2021,26/06/2021,Standard Class,JD-15895,Vu Tu Linh,Viet Nam,Tp HCM,1
+549,CA-2020-134306,13/04/2020,17/04/2020,Second Class,JD-15895,Do Vu Ngoc Linh,Viet Nam,Tp HCM,1
+550,CA-2020-134306,13/04/2020,17/04/2020,Second Class,JH-15910,Hoang Phuong Linh,Viet Nam,Ha Noi,1
+551,CA-2020-129714,13/04/2020,17/04/2020,Second Class,AS-10225,Hoang Le Minh Long,Viet Nam,Tp HCM,1
+552,CA-2020-129714,13/04/2020,17/04/2020,Second Class,KB-16600,Ng Thi Ngoc Luong,Viet Nam,Tp HCM,1
+553,CA-2021-129714,20/12/2021,24/12/2021,Second Class,CR-12625,Nguyen Nhu Mai,Viet Nam,Da Nang,1
+554,CA-2021-129714,15/06/2021,19/06/2021,Standard Class,CR-12625,Hoàng Duy Minh,Viet Nam,Tp HCM,1
+555,CA-2021-129714,8/7/2021,12/7/2021,Standard Class,SH-20395,Vu Dang Khanh My,Viet Nam,Ha Noi,1
+556,CA-2021-138520,8/7/2021,12/7/2021,Standard Class,BP-11185,Vu Ngoc Hieu Ngan,Viet Nam,Tp HCM,1
+557,CA-2021-138520,8/7/2021,12/7/2021,Standard Class,BP-11185,Ha Huy Tung Nguyen,Viet Nam,Tp HCM,1
+558,CA-2021-138520,1/9/2021,3/9/2021,Standard Class,BP-11185,Pham Bo Phu,Viet Nam,Ha Noi,1
+559,CA-2021-138520,1/9/2021,3/9/2021,First Class,BP-11185,Hoang The Quang,Viet Nam,Ha Noi,1
+560,CA-2021-130001,1/9/2021,3/9/2021,First Class,TS-21205,Tran Bao Thy,Viet Nam,Ha Noi,1
+561,CA-2021-155698,1/9/2021,3/9/2021,First Class,AG-10525,Quan Huu Toan,Viet Nam,Tien Giang,1
+562,CA-2021-155698,1/9/2021,3/9/2021,First Class,AG-10525,Nguyen Viet Trinh,Viet Nam,Thanh Hoa,1
+563,CA-2021-144904,8/4/2021,13/04/2021,First Class,SP-20860,Do Phuc Hieu Tue,Viet Nam,Nam Dinh,1
+564,CA-2021-144904,8/4/2021,13/04/2021,Standard Class,NM-18445,Pham Duy Tung,Viet Nam,Da Nang,1
+565,CA-2021-144904,8/4/2021,13/04/2021,Standard Class,NM-18445,Vu Dang Hoang Vu,Viet Nam,Nam Dinh,1
+566,CA-2021-144904,8/4/2021,13/04/2021,Standard Class,NM-18445,Tran Quynh Anh,Viet Nam,Thanh Hoa,1
+567,CA-2021-123344,23/04/2021,28/04/2021,Standard Class,NM-18445,Tu Thành Bach,Viet Nam,Dong Thap,1
+568,CA-2021-155516,8/3/2021,11/3/2021,Standard Class,NM-18445,Le Minh Chau,Viet Nam,Gia Lai,1
+569,CA-2021-155516,8/3/2021,11/3/2021,First Class,FA-14230,Ng. Hoang Tien  Dung,Viet Nam,Ha Giang,1
+570,CA-2021-155516,25/09/2021,1/10/2021,First Class,GK-14620,Do Thuy Duong,Viet Nam,Ha Noi,1
+571,CA-2021-155516,25/09/2021,1/10/2021,Standard Class,GK-14620,Vu Ba Dai,Viet Nam,Ha Noi,1
+572,CA-2021-104745,25/09/2021,1/10/2021,Standard Class,DJ-13510,Tran Tuan Dat,Viet Nam,Ha Noi,1
+573,CA-2021-104745,25/09/2021,1/10/2021,Standard Class,PO-18850,Vu Nhon Duc,Viet Nam,Ha Noi,1
+574,US-2020-119137,24/09/2020,29/09/2020,Standard Class,PO-18850,Tran Minh Duc,Viet Nam,Ha Noi,1
+575,US-2021-119137,21/10/2021,21/10/2021,Standard Class,PO-18850,Nguyen Dinh Duc,Viet Nam,Ha Noi,1
+576,US-2021-119137,21/10/2021,21/10/2021,Same Day,PO-18850,Luong Tran Bao Ha,Viet Nam,Hai Duong,1
+577,US-2021-119137,21/10/2021,21/10/2021,Same Day,PO-18850,Pham Nguyen Bao Han,Viet Nam,Thanh Hoa,1
+578,US-2021-134656,21/10/2021,21/10/2021,Same Day,JL-15850,Vu Minh Hoang,Viet Nam,Hai Duong,1
+579,US-2021-134481,29/05/2021,4/6/2021,Same Day,JL-15850,Tran Quoc Khanh,Viet Nam,Da Nang,1
+580,CA-2021-130792,29/05/2021,4/6/2021,Standard Class,JL-15850,Le Nguyen Hà Linh,Viet Nam,Son La,1
+581,CA-2020-130792,23/07/2020,27/07/2020,Standard Class,DB-13615,Nguyen Thi Phuong Linh,Viet Nam,Ha Noi,1
+582,CA-2020-130792,23/07/2020,27/07/2020,Standard Class,DB-13615,Le Minh Long,Viet Nam,Ha Noi,1
+583,CA-2020-134775,23/07/2020,27/07/2020,Standard Class,DB-13615,La Hien Minh,Viet Nam,Ha Noi,1
+584,CA-2020-134775,23/07/2020,27/07/2020,Standard Class,AC-10420,Pham Tran Hoang Minh,Viet Nam,Ha Noi,1
+585,CA-2021-125395,28/09/2021,1/10/2021,Standard Class,AC-10420,Nguyen Trung Nghia,Viet Nam,Son La,1
+586,US-2021-168935,27/08/2021,1/9/2021,First Class,KL-16645,Nguyen Thi Minh Ngoc,Viet Nam,Thanh Hoa,1
+587,US-2021-168935,28/04/2021,5/5/2021,Standard Class,JD-15895,Pham Minh Nhat,Viet Nam,Son La,1
+588,CA-2021-122756,28/04/2021,5/5/2021,Standard Class,JD-15895,Pham Nhien Khanh Nhi,Viet Nam,Ha Noi,1
+589,CA-2021-122756,28/04/2021,5/5/2021,Standard Class,JD-15895,Nguyen Hoang Bao Nhi,Viet Nam,An Giang,1
+590,CA-2021-115973,28/10/2021,29/10/2021,Standard Class,JD-15895,Cao Nguyen Bao Phuc,Viet Nam,An Giang,1
+591,CA-2021-101798,28/10/2021,29/10/2021,First Class,CS-12130,Hoang Gia Trong Phuc,Viet Nam,Ha Noi,1
+592,CA-2021-101798,26/06/2021,29/06/2021,First Class,CC-12550,Nguyen Dang Quang,Viet Nam,Ha Noi,1
+593,US-2021-135972,27/11/2021,2/12/2021,Second Class,TD-20995,Dao Thien Anh Quan,Viet Nam,Ha Noi,1
+594,US-2021-135972,27/11/2021,2/12/2021,Standard Class,TD-20995,Nguyen Duc Toan,Viet Nam,Thua Thien Hue,1
+595,US-2021-134971,3/12/2021,7/12/2021,Standard Class,TD-20995,Tu Ngoc Trang,Viet Nam,Lai Chau,1
+596,CA-2021-102946,3/12/2021,7/12/2021,Standard Class,AB-10060,Luong Le Ngoc BaoTran,Viet Nam,Da Nang,1
+597,CA-2020-165603,24/11/2020,26/11/2020,Standard Class,AB-10060,Nguyen Minh Triet,Viet Nam,Thua Thien Hue,1
+598,CA-2021-165603,11/12/2021,15/12/2021,First Class,AB-10060,Nguyen Trung Truc,Viet Nam,Dien Bien,1
+599,CA-2021-122259,11/12/2021,15/12/2021,Standard Class,AB-10060,Do Minh Tuan,Viet Nam,Dien Bien,1
+600,CA-2020-108987,21/09/2020,23/09/2020,Standard Class,AB-10060,Nguyen Hoang Tung,Viet Nam,Can Tho,1
